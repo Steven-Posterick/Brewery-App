@@ -1,4 +1,4 @@
-# Brewery Application
+# Brewery Application (Itasca Community College Project)
 
 This program will prompt the user for the inputs of malts (name, potential,
 efficiency, and grain weight) and the inputs of hops (name, alpha acids, 
